@@ -27,6 +27,24 @@
     background-color: limegreen;
 }
 
+.calc-button:last-child:hover {
+    background-color: lime;
+}
+
+.calc-button:last-child:active {
+    background-color: rgb(13, 146, 13);
+}
+
+/* to see that you can click it */
+.calc-button:hover{
+    background-color: #ebebeb;
+}
+
+/* to give click feedback*/
+.calc-button:active {
+    background-color: #bbbcbe;
+}
+
 .calc-button-row {
     display: flex;
     align-content: stretch;

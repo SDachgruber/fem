@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+.doggos-header{
+    font-family: sans-serif;
+    font-size:  28px;
+    font-style: italic bold;
+    text-align: center;
+}
+
+.add-doggo{
+    width: 20%;
+    margin: 0.5%;
+}
+
+.container{
+    width: 20%;
+    margin: 0.5%;
+}
+
+.doggos{
+    display: flex;
+    justify-content: center;
+    margin: 0.5%;
+}
