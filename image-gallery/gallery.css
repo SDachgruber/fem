@@ -26,7 +26,7 @@ img {
 }
 @media (min-width: 550px) {
 	li {
-		flex: 0 0 100%;
+		flex: 0 0 50%;
 	}
 }
 @media (min-width: 850px) { 
